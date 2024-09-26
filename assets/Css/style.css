@@ -100,12 +100,12 @@ body
 
 .end-Product
 {
-    width: 30%;
+    width: fit-content;
     border: 3px solid black;
     border-radius: 10px;
     background-color: rgb(93, 109, 126);
     color: rgb(154, 125, 10);
-    padding: 20px;
+    padding: 10px 150px;
     
 }
 
